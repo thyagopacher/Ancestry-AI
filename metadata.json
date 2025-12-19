@@ -1,0 +1,5 @@
+{
+  "name": "Ancestry Explorer AI",
+  "description": "Uma ferramenta inteligente de árvore genealógica que utiliza o Gemini para pesquisar e visualizar sua linhagem familiar a partir de informações básicas.",
+  "requestFramePermissions": []
+}
